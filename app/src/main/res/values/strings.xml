@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PictureOfTheDay</string>
+
+    <string name="http_err_msg">Error Response From Server</string>
+    <string name="iv_picture_cd">Nasa Picture Center Display</string>
+    <string name="iv_picture_large_cd">Nasa Picture Full Screen Display</string>
+</resources>
